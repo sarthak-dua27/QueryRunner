@@ -1,0 +1,3402 @@
+[
+    {
+        "query": {
+            "location": {
+                "lon": -75.12108980626304,
+                "lat": 39.97539406870795
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Allpoint",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 39.97539406870795,
+                        "lon": -75.12108980626304
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Allpoint"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -98.86047239053018,
+                "lat": 48.11107273688614
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "PAI",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 48.11107273688614,
+                        "lon": -98.86047239053018
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "PAI"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -76.54149751234924,
+                "lat": 39.329198770183005
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 39.329198770183005,
+                        "lon": -76.54149751234924
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -84.57670650735852,
+                "lat": 38.662572247302144
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Allpoint",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 38.662572247302144,
+                        "lon": -84.57670650735852
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Allpoint"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -74.48985805509176,
+                "lat": 40.59591128810388
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 40.59591128810388,
+                        "lon": -74.48985805509176
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -84.19888572059715,
+                "lat": 39.85488670238969
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 39.85488670238969,
+                        "lon": -84.19888572059715
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -102.22617764262243,
+                "lat": 40.07861326311385
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 40.07861326311385,
+                        "lon": -102.22617764262243
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -77.07462148338023,
+                "lat": 39.02961421062979
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 39.02961421062979,
+                        "lon": -77.07462148338023
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -82.77626189217496,
+                "lat": 39.9098264995673
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "PNC",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 39.9098264995673,
+                        "lon": -82.77626189217496
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "PNC"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -85.57609216755209,
+                "lat": 38.306306930521714
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Allpoint",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 38.306306930521714,
+                        "lon": -85.57609216755209
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Allpoint"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -118.42921799999999,
+                "lat": 34.221646543395735
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 34.221646543395735,
+                        "lon": -118.42921799999999
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -86.10364948251485,
+                "lat": 42.790351754948205
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 42.790351754948205,
+                        "lon": -86.10364948251485
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -76.81698052197788,
+                "lat": 39.10062334822004
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 39.10062334822004,
+                        "lon": -76.81698052197788
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -79.8857966184666,
+                "lat": 34.63763722258148
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "PAI",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 34.63763722258148,
+                        "lon": -79.8857966184666
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "PAI"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -71.46062122248807,
+                "lat": 41.97848906269855
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "PAI",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 41.97848906269855,
+                        "lon": -71.46062122248807
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "PAI"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -81.7838325,
+                "lat": 24.559326
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Allpoint",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 24.559326,
+                        "lon": -81.7838325
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Allpoint"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -82.87017904100115,
+                "lat": 42.55962121870851
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 42.55962121870851,
+                        "lon": -82.87017904100115
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -83.98923370246412,
+                "lat": 39.29266455369619
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 39.29266455369619,
+                        "lon": -83.98923370246412
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -95.54912133818212,
+                "lat": 30.141520408969487
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Allpoint",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 30.141520408969487,
+                        "lon": -95.54912133818212
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Allpoint"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -84.87711289148245,
+                "lat": 35.131220743205475
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Allpoint",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 35.131220743205475,
+                        "lon": -84.87711289148245
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Allpoint"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -87.81728116077142,
+                "lat": 41.703769938109524
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Allpoint",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 41.703769938109524,
+                        "lon": -87.81728116077142
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Allpoint"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -87.7052276508454,
+                "lat": 41.77891768746048
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "PAI",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 41.77891768746048,
+                        "lon": -87.7052276508454
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "PAI"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -75.12108980626304,
+                "lat": 39.97539406870795
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Allpoint",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 39.97539406870795,
+                        "lon": -75.12108980626304
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Allpoint"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -90.48506821882408,
+                "lat": 41.55089030552865
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Allpoint",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 41.55089030552865,
+                        "lon": -90.48506821882408
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Allpoint"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -87.10959829447746,
+                "lat": 41.605323542818816
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "PAI",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 41.605323542818816,
+                        "lon": -87.10959829447746
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "PAI"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -105.86440224271452,
+                "lat": 37.469268116827415
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "PAI",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 37.469268116827415,
+                        "lon": -105.86440224271452
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "PAI"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -76.34849214296823,
+                "lat": 39.538713237578634
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 39.538713237578634,
+                        "lon": -76.34849214296823
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -87.74704302311197,
+                "lat": 41.94590400000001
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 41.94590400000001,
+                        "lon": -87.74704302311197
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -117.00668034364332,
+                "lat": 33.72657556702637
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 33.72657556702637,
+                        "lon": -117.00668034364332
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -122.6928410939466,
+                "lat": 45.523191074729766
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 45.523191074729766,
+                        "lon": -122.6928410939466
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -75.09764365347114,
+                "lat": 40.92107582511992
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "PAI",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 40.92107582511992,
+                        "lon": -75.09764365347114
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "PAI"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -90.19467,
+                "lat": 32.329620000000006
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 32.329620000000006,
+                        "lon": -90.19467
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -76.4926785,
+                "lat": 37.101051
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 37.101051,
+                        "lon": -76.4926785
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -87.55978749018956,
+                "lat": 41.71410900000001
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "PAI",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 41.71410900000001,
+                        "lon": -87.55978749018956
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "PAI"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -87.67370247048272,
+                "lat": 34.87341658673323
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Allpoint",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 34.87341658673323,
+                        "lon": -87.67370247048272
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Allpoint"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -73.83132683556458,
+                "lat": 40.76186081542507
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 40.76186081542507,
+                        "lon": -73.83132683556458
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -93.56636220985037,
+                "lat": 36.362769507617394
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 36.362769507617394,
+                        "lon": -93.56636220985037
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -76.72721212920533,
+                "lat": 39.322178445726905
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "PAI",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 39.322178445726905,
+                        "lon": -76.72721212920533
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "PAI"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -86.19669852844942,
+                "lat": 41.655495518754556
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 41.655495518754556,
+                        "lon": -86.19669852844942
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -82.679389456056,
+                "lat": 27.73471500000001
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "PNC",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 27.73471500000001,
+                        "lon": -82.679389456056
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "PNC"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -118.42921799999999,
+                "lat": 34.221646543395735
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 34.221646543395735,
+                        "lon": -118.42921799999999
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -83.57497523997321,
+                "lat": 42.67410861587513
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 42.67410861587513,
+                        "lon": -83.57497523997321
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -90.09827426086349,
+                "lat": 29.87691723258697
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 29.87691723258697,
+                        "lon": -90.09827426086349
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -90.15581602039933,
+                "lat": 32.380293391107095
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 32.380293391107095,
+                        "lon": -90.15581602039933
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -74.0657594729069,
+                "lat": 40.87510759697634
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 40.87510759697634,
+                        "lon": -74.0657594729069
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -77.0639738194071,
+                "lat": 35.84020729612225
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "PNC",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 35.84020729612225,
+                        "lon": -77.0639738194071
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "PNC"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -80.134839,
+                "lat": 26.934623515436336
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "PAI",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 26.934623515436336,
+                        "lon": -80.134839
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "PAI"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -115.06225895216087,
+                "lat": 36.225378000000006
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 36.225378000000006,
+                        "lon": -115.06225895216087
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -74.3613075,
+                "lat": 43.012962000000016
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Allpoint",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 43.012962000000016,
+                        "lon": -74.3613075
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Allpoint"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -77.40358247045407,
+                "lat": 39.02547061668319
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 39.02547061668319,
+                        "lon": -77.40358247045407
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -89.57590038634658,
+                "lat": 44.53393648326466
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 44.53393648326466,
+                        "lon": -89.57590038634658
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -87.9587420056555,
+                "lat": 41.84878499999999
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Allpoint",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 41.84878499999999,
+                        "lon": -87.9587420056555
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Allpoint"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -77.07462148338023,
+                "lat": 39.02961421062979
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 39.02961421062979,
+                        "lon": -77.07462148338023
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -76.72721212920533,
+                "lat": 39.322178445726905
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "PAI",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 39.322178445726905,
+                        "lon": -76.72721212920533
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "PAI"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -85.1660810946964,
+                "lat": 41.17469489064575
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 41.17469489064575,
+                        "lon": -85.1660810946964
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -84.24217802244189,
+                "lat": 35.58746661459091
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 35.58746661459091,
+                        "lon": -84.24217802244189
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -97.1988151566208,
+                "lat": 30.61572087046521
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 30.61572087046521,
+                        "lon": -97.1988151566208
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -117.01788035374221,
+                "lat": 32.7785274249522
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 32.7785274249522,
+                        "lon": -117.01788035374221
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -82.73130066210543,
+                "lat": 27.90095028956099
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 27.90095028956099,
+                        "lon": -82.73130066210543
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -92.4472035,
+                "lat": 42.536885467684115
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 42.536885467684115,
+                        "lon": -92.4472035
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -76.35920492789505,
+                "lat": 36.81107537215099
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Allpoint",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 36.81107537215099,
+                        "lon": -76.35920492789505
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Allpoint"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -74.16302007865448,
+                "lat": 40.837150939754295
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 40.837150939754295,
+                        "lon": -74.16302007865448
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -96.80002438856826,
+                "lat": 32.78048741439196
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Allpoint",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 32.78048741439196,
+                        "lon": -96.80002438856826
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Allpoint"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -98.00362900473186,
+                "lat": 41.11465970249279
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "PAI",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 41.11465970249279,
+                        "lon": -98.00362900473186
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "PAI"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -84.58296153782716,
+                "lat": 40.87105199999999
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "PAI",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 40.87105199999999,
+                        "lon": -84.58296153782716
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "PAI"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -73.72663259221582,
+                "lat": 40.786799621905985
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 40.786799621905985,
+                        "lon": -73.72663259221582
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -73.7660835,
+                "lat": 40.598028
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "PAI",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 40.598028,
+                        "lon": -73.7660835
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "PAI"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -83.45994292059768,
+                "lat": 42.55041871763138
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 42.55041871763138,
+                        "lon": -83.45994292059768
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -98.40205659576519,
+                "lat": 40.572040243407
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "PAI",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 40.572040243407,
+                        "lon": -98.40205659576519
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "PAI"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -80.6087901268394,
+                "lat": 28.358023680304434
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "PAI",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 28.358023680304434,
+                        "lon": -80.6087901268394
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "PAI"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -96.04850183152521,
+                "lat": 41.263395137139845
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 41.263395137139845,
+                        "lon": -96.04850183152521
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -80.7696603950309,
+                "lat": 35.05132648098566
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Allpoint",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 35.05132648098566,
+                        "lon": -80.7696603950309
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Allpoint"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -83.62058017678466,
+                "lat": 41.54555546263512
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "PNC",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 41.54555546263512,
+                        "lon": -83.62058017678466
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "PNC"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -77.00277354080617,
+                "lat": 38.79875866920852
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 38.79875866920852,
+                        "lon": -77.00277354080617
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -98.76608250874257,
+                "lat": 38.36545982817835
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "PAI",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 38.36545982817835,
+                        "lon": -98.76608250874257
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "PAI"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -74.1372165,
+                "lat": 44.33209200000002
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "PAI",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 44.33209200000002,
+                        "lon": -74.1372165
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "PAI"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -75.41719430091142,
+                "lat": 38.92740447463766
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 38.92740447463766,
+                        "lon": -75.41719430091142
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -93.2650429044373,
+                "lat": 45.10733027730943
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Allpoint",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 45.10733027730943,
+                        "lon": -93.2650429044373
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Allpoint"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -115.06199299177703,
+                "lat": 36.166824000000005
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 36.166824000000005,
+                        "lon": -115.06199299177703
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -89.67060827240468,
+                "lat": 37.38290832393649
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 37.38290832393649,
+                        "lon": -89.67060827240468
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -88.1431695,
+                "lat": 43.21679399999999
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 43.21679399999999,
+                        "lon": -88.1431695
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -73.91402798779498,
+                "lat": 40.74374488178759
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Allpoint",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 40.74374488178759,
+                        "lon": -73.91402798779498
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Allpoint"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -116.30375198453501,
+                "lat": 33.74303400000001
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Allpoint",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 33.74303400000001,
+                        "lon": -116.30375198453501
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Allpoint"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -87.74092631259778,
+                "lat": 41.72468678657161
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "PAI",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 41.72468678657161,
+                        "lon": -87.74092631259778
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "PAI"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -82.509291,
+                "lat": 27.498598509059693
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 27.498598509059693,
+                        "lon": -82.509291
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -122.33497709492754,
+                "lat": 47.22785671161073
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 47.22785671161073,
+                        "lon": -122.33497709492754
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -74.23066360807198,
+                "lat": 40.77265684017024
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "PAI",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 40.77265684017024,
+                        "lon": -74.23066360807198
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "PAI"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -80.20573269383712,
+                "lat": 25.962607204830046
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 25.962607204830046,
+                        "lon": -80.20573269383712
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -98.76608250874257,
+                "lat": 38.36545982817835
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "PAI",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 38.36545982817835,
+                        "lon": -98.76608250874257
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "PAI"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -85.65620723624627,
+                "lat": 44.671435243729796
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Allpoint",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 44.671435243729796,
+                        "lon": -85.65620723624627
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Allpoint"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -77.2219575,
+                "lat": 43.062984
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Allpoint",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 43.062984,
+                        "lon": -77.2219575
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Allpoint"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -84.58296153782716,
+                "lat": 40.87105199999999
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "PAI",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 40.87105199999999,
+                        "lon": -84.58296153782716
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "PAI"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -79.76944507770219,
+                "lat": 40.438637508599285
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "PNC",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 40.438637508599285,
+                        "lon": -79.76944507770219
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "PNC"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -91.45809507097884,
+                "lat": 44.795854948929566
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 44.795854948929566,
+                        "lon": -91.45809507097884
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -88.25966969020178,
+                "lat": 41.73357495856711
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Allpoint",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 41.73357495856711,
+                        "lon": -88.25966969020178
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Allpoint"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -121.45168731516854,
+                "lat": 37.73947218540885
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Allpoint",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 37.73947218540885,
+                        "lon": -121.45168731516854
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Allpoint"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -121.55505851884145,
+                "lat": 39.52168998115855
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 39.52168998115855,
+                        "lon": -121.55505851884145
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -89.63935636372554,
+                "lat": 39.757488607593906
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 39.757488607593906,
+                        "lon": -89.63935636372554
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -97.72515879770877,
+                "lat": 31.089685470627888
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "USAA",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 31.089685470627888,
+                        "lon": -97.72515879770877
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "USAA"
+                }
+            ]
+        }
+    },
+    {
+        "query": {
+            "location": {
+                "lon": -94.4152965,
+                "lat": 39.056877000000014
+            },
+            "distance": "100mi",
+            "field": "bklctrcb.geometry.coordinates"
+        }
+    },
+    {
+        "query": {
+            "match": "Moneypass",
+            "field": "bklctrcb.relationship"
+        }
+    },
+    {
+        "query": {
+            "conjuncts": [
+                {
+                    "distance": "100mi",
+                    "field": "bklctrcb.geometry.coordinates",
+                    "location": {
+                        "lat": 39.056877000000014,
+                        "lon": -94.4152965
+                    }
+                },
+                {
+                    "field": "bklctrcb.relationship",
+                    "match": "Moneypass"
+                }
+            ]
+        }
+    }
+]
